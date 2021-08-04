@@ -1,0 +1,7 @@
+<center>
+<?php
+$color = 'hello';
+echo "user : ".$color."\n\n";
+?>
+</center>
+
